@@ -5,8 +5,8 @@ Detect face in camera
 
 Run command: python3 face_register.py
 
-i) Type you name and 'ENTER'.
-ii) Press 'Y' key 5 times to take 5 photos on your camera.
+i) Type you name and 'ENTER'.<br>
+ii) Press 'Y' key 5 times to take 5 photos on your camera.<br>
 iii) The photos will save in images folder.
 
 ## 2. Train the data
